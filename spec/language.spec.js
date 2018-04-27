@@ -10,6 +10,7 @@ import ObjCParser from '../lib/languages/objc';
 import JavaParser from '../lib/languages/java';
 import TypescriptParser from '../lib/languages/typescript';
 import ProcessingParser from '../lib/languages/processing';
+import StataParser from "../lib/languages/stata";
 
 import fs from 'fs';
 import path from 'path';
